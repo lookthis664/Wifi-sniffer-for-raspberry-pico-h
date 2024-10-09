@@ -36,7 +36,9 @@
 
 ## **How to use it?**
 ```
-Install the main.py script on your Raspberry Pico H. Once this is done, you just need to connect your Raspberry Pico H to any USB power supply, and the program will start automatically. To exit the menu and switch to sniffing mode, you just need to press the reset button on the ESP8266 Wi-Fi hat.
+Install the main.py script on your Raspberry Pico H. 
+Once this is done, you just need to connect your Raspberry Pico H to any USB power supply, and the program will start automatically. 
+To exit the menu and switch to sniffing mode, you just need to press the reset button on the ESP8266 Wi-Fi hat.
 ```
 # Author
 
