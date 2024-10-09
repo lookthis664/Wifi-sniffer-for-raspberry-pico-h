@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.8-blue">
+    <img src="https://img.shields.io/badge/version-v1.0-blue">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
+    <img src="https://img.shields.io/badge/Raspberry pico h">
   </a>
   <a href="">
-      <img src="https://img.shields.io/badge/format-Python 3.11-l">
+      <img src="https://img.shields.io/badge/format-Micropython">
   </a>
 </p>
 
