@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/version-v1.0-blue">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/platform-Raspberry-pico-h-lightgrey">
+    <img src="https://img.shields.io/badge/platform-Raspberry%20pico%20h-lightgrey">
   </a>
   <a href="">
       <img src="https://img.shields.io/badge/format-MicroPython%20-l">
