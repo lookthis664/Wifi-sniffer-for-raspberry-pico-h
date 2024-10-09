@@ -22,11 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="photo/1.png" width=700>
-</p>
-
-
 ## **Features**
 - [x] Have all the nearby Wi-Fi networks
 - [X] Know if the Wi-Fi networks are public or private
