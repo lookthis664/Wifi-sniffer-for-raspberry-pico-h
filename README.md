@@ -1,15 +1,14 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-10%2F09%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-9%2F10%2F24-red">
   <br>
-Added an enhancement to the "dele.py" module to remove links with Metadata: "{}" for better accuracy of valid links
 
 <h1 align="center">
   Wifi sniffer
   <br>
 </h1>
 
-<h4 align="center">OSINT tools work with web scraping.</h4>
+<h4 align="center">Wifi sniffer using a raspberry pico h and a wifi hat</h4>
 
 <p align="center">
   <a href="">
@@ -29,9 +28,10 @@ Added an enhancement to the "dele.py" module to remove links with Metadata: "{}"
 
 
 ## **Features**
-- [x] Get links from a username
-- [X] Automated metadata harvesting from a generated link 
-- [X] Reactive to command
+- [x] Have all the nearby Wi-Fi networks
+- [X] Know if the Wi-Fi networks are public or private
+- [X] Get the dBm of the Wi-Fi networks
+- [X] Get the channels of the Wi-Fi networks
 
 ## **_Requirements_**
 ```
