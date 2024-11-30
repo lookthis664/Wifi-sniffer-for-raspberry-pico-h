@@ -43,5 +43,3 @@ To exit the menu and switch to sniffing mode, you just need to press the reset b
 # Author
 
 > Github: lookthis664
-
-> Discord: ycne_77
